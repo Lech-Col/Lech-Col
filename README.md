@@ -6,7 +6,7 @@
 
 <br><br>
 
-- :school: I am a `student is process` at [politecnico internacional ](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/).
+- :school: I am a `student is process` at [politecnico internacional ](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) I am Colombian.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a  programmer at `front-ent`, `html`, `css`, `php`, `javascript`.
 - :student: I’m currently learning `software programming` and `Software Engineering`.
